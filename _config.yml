@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Adrianna García
-öpgp: /assets/img/cv_pic.png
+öpgp: ./assets/img/cv_pic.png
 description: Astrophysicist with experience in Data Analysis, Data Science and Machine Learning
 show_downloads: true
