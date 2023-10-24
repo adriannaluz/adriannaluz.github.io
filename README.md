@@ -1,5 +1,5 @@
 
-# About me
+## About me
 I am Venezuelan and Spanish. I studied Physics in Caracas (Venezuela). I did a Master in Astroparticle Physics in Barcelona (Spain). I came to Germany in 2018 to work at the RWTH Aachen University as Scientific Research Assistant. I speak fluently and actively three Languages.
 
 ## Education
@@ -9,8 +9,8 @@ I am Venezuelan and Spanish. I studied Physics in Caracas (Venezuela). I did a M
 ## Work Experience
 **Scientific researcher @ RWTH Aachen University. Aachen, Germany (_2018 - 2020_)**
 - Data pipelines assembly to download, store, clean, and pre-process the cosmic-ray
-air shower data measured at the Pierre Auger Observatory in Argentina (https://www.auger.org/)
-- Simulation of the cosmic-ray air shower data with CORSIKA (https://www.iap.kit.edu/corsika/)
+air shower data measured at the [Pierre Auger Observatory](https://www.auger.org/) in Argentina
+- Simulation of the cosmic-ray air shower data with [CORSIKA](https://www.iap.kit.edu/corsika/)
 - Analysis and validation of the resulting data
 - Software development with Python and C++ for data analysis
 - Implementation of machine learning models (Random Forest and Deep Learning)
@@ -37,18 +37,16 @@ Scikit-learn, XGBoost, mlxtend, TensorFlow, pycaret
 - German - Limited working proficiency
 
 ## Volunteering
-- Best Buddies Spain. Barcelona, Spain (_2017 - 2018_)
-- Techo Venezuela. Caracas, Venezuela (_2014 - 2015_)
-- UWC Venezuela. Caracas, Venezuela (_2012 - 2013_)
+- [Best Buddies](https://bestbuddies.es/) Spain. Barcelona, Spain (_2017 - 2018_)
+- [Techo](https://venezuela.techo.org/) Venezuela. Caracas, Venezuela (_2014 - 2015_)
+- [UWC](https://www.ven.uwc.org/) Venezuela. Caracas, Venezuela (_2012 - 2013_)
 
 ## Publications
-1. Fluorescence light detection with the FAMOUS telescope, Proceedings of Science of
-the 36th International Cosmic Ray Conference, 358 (2019) 267.
-2. The Aachen Muon Detector for testing the local production of Scintillating Surface
-Detectors for AugerPrime, Proceedings of Science of the 36th International Cosmic
-Ray Conference 358 (2019) 203.
+1. [Fluorescence light detection with the FAMOUS telescope](https://pos.sissa.it/358/267/), Proceedings of Science of the 36th International Cosmic Ray Conference, 358 (2019) 267
+2. [The Aachen Muon Detector for testing the local production of Scintillating Surface
+Detectors for AugerPrime](https://pos.sissa.it/358/203/), Proceedings of Science of the 36th International Cosmic Ray Conference 358 (2019) 203
 3. Electron Temperature Discrepancies in the [O III] and [S III] Nebular, Acta Científica
-Venezolana 66 (2015) 4.
+Venezolana 66 (2015) 4
 
 ## Hobbies
 - Bouldering & Climbing
