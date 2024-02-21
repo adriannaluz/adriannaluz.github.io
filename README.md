@@ -1,3 +1,4 @@
+
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
 [1]: https://github.com/adriannaluz/data-analysis_portfolio
@@ -7,8 +8,8 @@
 I am Venezuelan and Spanish. I studied Physics in Caracas (Venezuela). I did a Master in Astroparticle Physics in Barcelona (Spain). I came to Germany in 2018 to work at the RWTH Aachen University as Scientific Research Assistant. I speak fluently and actively three Languages.
 
 ## Education
-- M.S., Astroparticle Physics	| University of Barcelona. Barcelona, Spain (_2017_)	 			        		
-- B.S., Physics | Simón Bolívar University. Caracas, Venezuela (_2016_)
+- M.S., Astroparticle Physics. University of Barcelona. Barcelona, Spain (_2017_)	 			        		
+- Licenciate in Physics. Simón Bolívar University. Caracas, Venezuela (_2016_)
 
 ## Work Experience
 **Data Analyst & Data Engineer Intern @ Women AI Academy. Munich, Germany (_2023 - Present_)**
