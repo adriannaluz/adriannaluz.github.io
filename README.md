@@ -4,11 +4,11 @@
 [2]: https://www.linkedin.com/in/adriannagarciavegas/
 
 ## About me
-I am Venezuelan and Spanish. I studied Physics in Caracas (Venezuela). I did a Master in Astroparticle Physics in Barcelona (Spain). I came to Germany in 2018 to work at the RWTH Aachen University as Scientific Research Assistant. I speak fluently and actively three Languages.
+### I am Venezuelan and Spanish. I studied Physics in Caracas (Venezuela). I did a Master in Astroparticle Physics in Barcelona (Spain). I came to Germany in 2018 to work at the RWTH Aachen University as Scientific Research Assistant. I speak fluently and actively three Languages.
 
 ## Education
-- M.S., Astroparticle Physics	| University of Barcelona. Barcelona, Spain (_2017_)	 			        		
-- B.S., Physics | Simón Bolívar University. Caracas, Venezuela (_2016_)
+- M.S., Astroparticle Physics. University of Barcelona. Barcelona, Spain (_2017_)	 			        		
+- B.S., Physics. Simón Bolívar University. Caracas, Venezuela (_2016_)
 
 ## Work Experience
 **Data Analyst & Data Engineer Intern @ Women AI Academy. Munich, Germany (_2023 - Present_)**
