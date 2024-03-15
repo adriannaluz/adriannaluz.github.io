@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
-palette:
-    primary: teal
 title: Adrianna García
 logo: ./assets/img/cv_pic.png
 description: Astrophysicist with experience in Data Analysis, Data Science and Machine Learning
